@@ -1,0 +1,26 @@
+{
+    "businessId": "1234567-1",
+    "customerName": "Asiakas Oy",
+    "email": "asiakas.antti@mailinator.com",
+    "phoneNumber": "055 555 5555",
+    "currency": "EUR",
+    "debtCollectionDisabled": false,
+    "languageCode": "FIN",
+    "interestDisabled": false,
+    "isCustomer": true,
+    "ovtIdentifier": "003712345671",
+    "isSupplier": false,
+    "isConsumer": false,
+    "customerEntityAddressDTOS": [
+        {
+            "streetAddress": "Asiakaskatu 1",
+            "streetAddress2": "Ovi 9",
+            "postalCode": "04230",
+            "postalAddress": "KERAVA",
+            "countryCode": "FI",
+            "isMainAddress": true,
+            "addressType": "01"
+        }
+    ],
+    "customerEntityBankAccountDTOS": []
+}
